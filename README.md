@@ -1,0 +1,2 @@
+# CExtension-ImageResize
+CExtension-ImageResize
